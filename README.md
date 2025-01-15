@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,firebase,godot,html,ps,react,unity" />
+    <img src="https://skillicons.dev/icons?i=css,firebase,godot,html,latex,ps,react,unity" />
   </a>
 </p>
 
