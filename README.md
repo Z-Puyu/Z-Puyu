@@ -9,6 +9,7 @@
 - ❤️ **passion-driven**, **well-organised** and a little bit **perfectionist**;
 - 🔭 currently working on [Road of Heroes](https://github.com/Z-Puyu/Road-of-Heroes), my first self-initiated game development project;
 - 🌱 currently learning **game & software development**, **operations research** and **Japanese**;
+- 📖 a part-time student teaching assistant at the School of Computing, National University of Singapore.
 
 ## I code in...
 
