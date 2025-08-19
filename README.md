@@ -1,5 +1,7 @@
 # Hi there! I'm Puyu 👋
 
+[My GitHub personal portfolio page](https://z-puyu.github.io/)
+
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:zpyzhangpuyu@gmail.com)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/zhang-puyu-b86491319/)
 
