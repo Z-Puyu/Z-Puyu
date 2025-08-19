@@ -32,7 +32,7 @@
 
 | Project | Lanaguge | Remark |
 |:--------|:--------:|:-------|
-| [Keywords - A Unity Game Object Tagging System](https://github.com/Z-Puyu/Keywords-A-Unity-Tagging-System) | [![LaTeX](https://skillicons.dev/icons?i=cs)](https://skillicons.dev) | A utility Unity package hierarchical game object tagging |
+| [Keywords - A Unity Game Object Tagging System](https://github.com/Z-Puyu/Keywords-A-Unity-Tagging-System) | [![LaTeX](https://skillicons.dev/icons?i=cs)](https://skillicons.dev) | A utility Unity package for hierarchical game object tagging |
 | [Project: Supper Stretch](https://github.com/Z-Puyu/Project-Supper-Stretch) | [![LaTeX](https://skillicons.dev/icons?i=cs)](https://skillicons.dev) | My solo game development project |
 | [Dungeon Slayer](https://github.com/Z-Puyu/CS3247-Project) | [![LaTeX](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) | My game development group school project |
 | [NUS maths lecture notes collection](https://github.com/Z-Puyu/lecture-notes) | [![LaTeX](https://skillicons.dev/icons?i=latex)](https://skillicons.dev) | My personally curated lecture notes for NUS maths courses |
