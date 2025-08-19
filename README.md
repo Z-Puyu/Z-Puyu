@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,rider,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=rider,idea,vscode,visualstudio" />
   </a>
 </p>
 
